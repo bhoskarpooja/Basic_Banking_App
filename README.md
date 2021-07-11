@@ -1,9 +1,9 @@
 
-<h1 align="center"># Basic_Banking_App
+<h1 align="center"># Basic_Banking_App 📱
 
 
 <h1 align="center"> #Done By - Pooja Bhoskar 👩‍💻
-<h2 align="center"> #Mobile Application Development Interns @The_Sparks_Foundation 👩‍💻
+<h2 align="center"> #Mobile Application Development Interns @The_Sparks_Foundation 👩‍💻📱
 
   
 ## 🚀  Tools and Technologies:
